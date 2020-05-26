@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestProgram>
+  <Record id="1">
+    <Date>15.05.2020</Date>
+    <FirstName>Oleg</FirstName>
+    <LastName>Izmailov</LastName>
+    <SurName>Andreevich</SurName>
+    <City>Tomsk</City>
+    <Country>Russia</Country>
+  </Record>
+  <Record id="2">
+    <Date>17.06.2020</Date>
+    <FirstName>Genadiy</FirstName>
+    <LastName>Lukovtsov</LastName>
+    <SurName>Olegovich</SurName>
+    <City>Moskow</City>
+    <Country>Russia</Country>
+  </Record>
+  <Record id="3">
+    <Date>19.08.2020</Date>
+    <FirstName>Pavel</FirstName>
+    <LastName>Pushkin</LastName>
+    <SurName>Sergeevich</SurName>
+    <City>Gomel</City>
+    <Country>Belarus</Country>
+  </Record>
+  <Record id="4">
+    <Date>25.05.2020</Date>
+    <FirstName>Artem</FirstName>
+    <LastName>Gridin</LastName>
+    <SurName>Artemovich</SurName>
+    <City>Minsk</City>
+    <Country>Belarus</Country>
+  </Record>
+  <Record id="8">
+    <Date>30.07.2020</Date>
+    <FirstName>Maxim</FirstName>
+    <LastName>Sivakov</LastName>
+    <SurName>Sergeevich</SurName>
+    <City>Gomel</City>
+    <Country>Belarus</Country>
+  </Record>
+</TestProgram>
